@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Ayush1127
 - 👀 I’m interested in vlsi back end domain
 - 🌱 I’m currently learning foundation of vlsi course by vlsi expert Institute
-- 💞️ I’m looking to collaborate on relter areas of physical design domain
+- 💞️ I’m looking to collaborate on intern position in 
+areas of physical design domain
 - 📫 How to reach me .You can mail me at ayush270123@gmail.com
 
 <!---
